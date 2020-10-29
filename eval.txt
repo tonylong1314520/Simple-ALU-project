@@ -1,0 +1,37 @@
+Class: EE #260
+
+Teamwork Eval for Hw # or Project #
+
+Your name: Tony Long
+
+Your login id: tonylong
+
+Your Team name: 
+
+Your Section: 003
+
+For each individual on your team (including yourself) give your rating:
+
+
+
+login id | Rating
+
+------------------------------------------------
+
+tonylong | excellent
+
+bsla8	 | excellent
+
+	 |
+
+	 |
+
+COMMENTS: (required) The project overall was not that bad, I did not spend to much time on the logicworks
+and the verilog. I did get stuck on the vhdl code because it was extremely different than any language I have every seen
+but I asked many questions on piazza and finally figured out everything by myself. So in a way, the people that answered
+my questions helped me get started, especially understanding what a bitwise XOR is. The total time I spent on this
+project was approximately 2 days so it was not that bad when I finally understood how to make testbenches and see my outputs.
+I feel like next time when you assign this project, you should also send testbenches with the verilog/vhdl code because
+I don't think a lot of people in the 260 class checked their outputs, especially on the VHDL file..
+
+-----------------------------------------------
